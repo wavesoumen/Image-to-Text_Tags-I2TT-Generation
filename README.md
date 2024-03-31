@@ -33,6 +33,7 @@ a woman with a white shirt and a black background
 ```
 
 #### Example2 (Online Image Link):
+- Link: https://www.signupgenius.com/cms/images/groups/100-Random-Trivia-Questions-1260x630.png 
 ![Image2](https://github.com/wavesoumen/Image-to-Text_Tags-I2TT-Generation/blob/main/example1.jpg)
 - Output Text:
 ```
